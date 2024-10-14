@@ -1,7 +1,7 @@
 # Business-Insights-360-Dashboard-
 
 
-#Skills:
+# Skills:
 
 Power BI: Built and managed multiple dashboards with data from diverse domains like Finance, Sales, Marketing, and Supply Chain.
 
@@ -15,7 +15,7 @@ Team Collaboration: Worked closely with departments such as Finance, Marketing, 
 
 Project Management: Managed end-to-end reporting and dashboard updates, ensuring data refreshes were timely and accurate.
 
-#Project Overview:
+# Project Overview:
 
 This project involved building a comprehensive reporting solution called Power BI 360 for a company. The solution was designed to provide a 360-degree view of various business functions, including:
 
@@ -29,7 +29,7 @@ Supply Chain View: Inventory monitoring, supplier performance, and logistics opt
 
 Executive View: High-level insights to guide strategic decision-making across departments.
 
-#Challenges and Solutions
+# Challenges and Solutions
 
 Data Consistency: One of the main challenges was ensuring data consistency across different departments. This was solved by using Power BIâ€™s data integration capabilities, and creating standardized reports.
 
@@ -37,7 +37,7 @@ Real-time Data Updates: The project required frequent data refreshes. Power BIâ€
 
 Custom Visualizations: Different departments required custom KPIs. Created specialized charts using Power BI visuals and custom DAX functions.
 
-#Results:
+# Results:
 
 Increased Efficiency: Departments were able to make faster, data-driven decisions thanks to real-time insights and a single source of truth across the business.
 
@@ -47,5 +47,5 @@ Optimized Operations: The Supply Chain and Finance views allowed for quicker ide
 
 Enhanced Sales and Marketing Insights: The Sales and Marketing views helped optimize campaign strategies, customer retention, and revenue generation.
 
-#Conclusion:
+# Conclusion:
 The Power BI 360 project demonstrated the power of data visualization in empowering decision-makers across a company. It provided real-time, actionable insights, helping departments work more efficiently and strategically.
