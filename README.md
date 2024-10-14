@@ -29,7 +29,7 @@ Supply Chain View: Inventory monitoring, supplier performance, and logistics opt
 
 Executive View: High-level insights to guide strategic decision-making across departments.
 
-# Challenges and Solutions
+# Challenges and Solutions:
 
 Data Consistency: One of the main challenges was ensuring data consistency across different departments. This was solved by using Power BI’s data integration capabilities, and creating standardized reports.
 
